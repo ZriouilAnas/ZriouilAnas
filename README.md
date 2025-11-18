@@ -39,7 +39,7 @@
 
 
 
-### 🎓 Master's in Web Development | 💻 Full-Stack Engineer 
+###  ๋࣭ ⭑✮💻₊ ⊹ ˙✧˖°🎓 ༘⋆｡ ˚ Master's in Web Development | 👩🏻‍💻 Full-Stack Engineer 
 
 I’m currently enrolled in a Master’s degree in Web Development, where I specialize in building modern, scalable, and high-quality web applications. I enjoy working across the entire stack, from intuitive and responsive interfaces to powerful and secure backend systems. I am actively looking for an alternance opportunity to continue growing my skills while contributing to real-world projects.
 
