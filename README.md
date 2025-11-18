@@ -47,7 +47,7 @@ I’m currently enrolled in a Master’s degree in Web Development, where I spec
 
 ## Hard Skills
 
-### Frontend Mastery
+### Frontend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -60,7 +60,7 @@ I’m currently enrolled in a Master’s degree in Web Development, where I spec
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### Backend Powerhouse
+### Backend 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -86,7 +86,7 @@ I’m currently enrolled in a Master’s degree in Web Development, where I spec
 
 ---
 
-## Core Expertise
+## Skills
 
 | Category | Skills |
 |----------|--------|
