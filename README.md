@@ -128,6 +128,7 @@ I’m currently enrolled in a Master’s degree in Web Development, where I spec
 
 ### Contact :  
 ˚.💌༘⋆ ** : **
+✧˖°🌐°˖✧ : https://anaszrportfolio.netlify.app/
 ˶ᵔ ᵕ ᵔ˶ Available to join exciting projects and collaborate with motivated teams.
 
 ⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡠⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
